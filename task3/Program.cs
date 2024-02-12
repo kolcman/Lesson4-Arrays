@@ -1,4 +1,4 @@
-﻿// Task2:2
+﻿// Task3
 
 int[] array = new int[10];
 for (int i = 0; i < array.Length; i++)
